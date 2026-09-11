@@ -14,6 +14,8 @@ Requer Node.js 20 ou superior. Execute `npm start` e abra http://127.0.0.1:4173.
 - `dist/conteudos.html`: biblioteca com filtros e vídeos do Instagram carregados sob demanda.
 - `dist/videos.json`: catálogo dos seis vídeos selecionados da base fornecida. É uma seleção editorial, não sincronização automática do Instagram.
 
+Avisos no canto (página de vendas): seis frases fixas com emoji sobre curso, comunidade, preço, vida social, quiz e consultoria, uma por vez a partir de 15 s. Não simulam compras nem pessoas; ao fechar um aviso, os outros param nessa sessão. Notificações de compra só com dados reais da Hotmart.
+
 O pop-up aparece uma vez por sessão, somente na página de vendas. Aguarda se outra janela estiver aberta ou se a aba estiver oculta. Não há contagem regressiva ou desconto fictício.
 
 WhatsApp configurado exatamente como fornecido: +55 67 9249-6064. Confirmar que o número recebe mensagens antes de campanhas; não foi enviada mensagem de teste.
